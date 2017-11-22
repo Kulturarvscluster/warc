@@ -2,5 +2,9 @@
 *.egg-info/
 docs/_build/
 build/
+dist/
+warc.egg-info
 .coverage
 htmlcov/
+.idea/
+warc.iml
